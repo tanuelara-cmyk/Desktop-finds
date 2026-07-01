@@ -51,8 +51,8 @@ Desktop-Landing-Page/
 
 Computer Engineering Student
 
-- GitHub: https://github.com/tanuelara-cmyk
-- LinkedIn: https://www.linkedin.com/in/tanu-yadav-a794253ab/
+- GitHub:[Github link] https://github.com/tanuelara-cmyk
+- LinkedIn:[Linkedin link] https://www.linkedin.com/in/tanu-yadav-a794253ab/
 
 --
 
