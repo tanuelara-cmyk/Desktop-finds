@@ -2,6 +2,9 @@
 
 A modern, responsive desktop landing page built using **HTML** and **CSS**. This project focuses on creating a clean, visually appealing user interface with smooth interactions and a user-friendly design.
 
+- GitHub:[Github link] https://github.com/tanuelara-cmyk
+- LinkedIn:[Linkedin link] https://www.linkedin.com/in/tanu-yadav-a794253ab/
+
 ## 🚀 Live Demo
 
 🔗https://tanuelara-cmyk.github.io/Desktop-finds/
@@ -50,11 +53,6 @@ Desktop-Landing-Page/
 **Tanu Yadav**
 
 Computer Engineering Student
-
-- GitHub:[Github link] https://github.com/tanuelara-cmyk
-- LinkedIn:[Linkedin link] https://www.linkedin.com/in/tanu-yadav-a794253ab/
-
---
 
 ## ⭐ Support
 
